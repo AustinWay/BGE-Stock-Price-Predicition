@@ -1,0 +1,2 @@
+# BGE-Stock-Price-Predicition
+Big G Express is an ESOP company In which I am currently employed with. There was a contest to have users guess the stock price for 2019. The winner of the contest got a prise of $250. So, I made this little script to help me take an educated guess on predicitng the stock price with public data. I guessed the price of $54.96 based on linear progression. However, that guess was low. The actual price was $59.81. 
